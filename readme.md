@@ -45,8 +45,8 @@ Variable für Geschwindigkeit
 Spiel ist vorbei wenn Rakete Mauszeiger berührt
 - wiederhole bis Mauszeiger berührt
 
-![](rocket-break-at-cursor.png)
-![](potion-break-at-cursor.png)
+![](rocket-crash-at-cursor.png)
+![](potion-crash-at-cursor.png)
 
 
 Variable für Score
