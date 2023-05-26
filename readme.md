@@ -53,5 +53,5 @@ Variable für Score
 
 verschiedene Tränke
 
-Ton effekte
+Ton Effekte
 - spiele Ton Befehl ist blokierend im Programmablauf!
