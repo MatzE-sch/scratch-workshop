@@ -1,6 +1,7 @@
-IDE: https://scratch.mit.edu  > beginne mit dem erstellen
+IDE: https://scratch.mit.edu  > beginne mit dem erstellen  
+Zielalter: 8 bis 12 Jahre
 
-# collector game
+# Sammelspiel
 
 Vorstellungsrunde
 - Name
